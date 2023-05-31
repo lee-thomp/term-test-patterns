@@ -1,0 +1,13 @@
+#+title: Terminal Test Patterns
+#+author: Lee Thompson
+#+date: <2023-05-28 Sun>
+
+** Summary
+
+A collection of test patterns that demo ANSI escape codes for terminal displays.
+This could be useful for testing of colour theming, terminal emulator implementation, ASCII art.
+
+
+** Usage
+
+Just =cat= any pattern file and observe results.
